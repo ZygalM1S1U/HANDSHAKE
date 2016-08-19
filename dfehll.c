@@ -1,4 +1,4 @@
-//Diffie-Hellman key exchange
+//Diffie-Hellman key exchange, known example from a forum to get the idea of DHKE
 
 #include <stdio.h>
 //#include <math.h>
